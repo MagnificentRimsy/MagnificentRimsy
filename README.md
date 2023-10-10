@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MagnificentRimsy
 - 👀 I’m interested in Solving problems and learning new technologies
 - 🌱 I’m currently advancing my skills in mobile application development 
-- 💞️ I’m looking to collaborate on any flutter related project
+- 💞️ I’m looking to collaborate on any Next Js or flutter related project
 - 📫 How to reach me jonahrchirika@gmail.com
 
 <!---
